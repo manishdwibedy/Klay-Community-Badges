@@ -1,0 +1,11 @@
+{
+   "name": "KLAY-Community-Badge",
+   "description": "KLAY-Community-Badge",
+   "image": "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca",
+   "attributes": [
+       {
+           "type": "novice",
+           "value": 1
+       }
+   ]
+}
